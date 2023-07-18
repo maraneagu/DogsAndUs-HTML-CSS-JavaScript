@@ -1,4 +1,4 @@
-# DogsAndUs-Website
+# DogsAndUs-HTML-CSS-JavaScript
 
 Project implemented in the Web Technologies course of my second semester at FMI. A website about different breeds of dogs.
 
